@@ -1,0 +1,15 @@
+F:\netApps\quizApp\bin\Debug\net9.0\quizApp.exe
+F:\netApps\quizApp\bin\Debug\net9.0\quizApp.deps.json
+F:\netApps\quizApp\bin\Debug\net9.0\quizApp.runtimeconfig.json
+F:\netApps\quizApp\bin\Debug\net9.0\quizApp.dll
+F:\netApps\quizApp\bin\Debug\net9.0\quizApp.pdb
+F:\netApps\quizApp\obj\Debug\net9.0\quizApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\netApps\quizApp\obj\Debug\net9.0\quizApp.AssemblyInfoInputs.cache
+F:\netApps\quizApp\obj\Debug\net9.0\quizApp.AssemblyInfo.cs
+F:\netApps\quizApp\obj\Debug\net9.0\quizApp.csproj.CoreCompileInputs.cache
+F:\netApps\quizApp\obj\Debug\net9.0\quizApp.sourcelink.json
+F:\netApps\quizApp\obj\Debug\net9.0\quizApp.dll
+F:\netApps\quizApp\obj\Debug\net9.0\refint\quizApp.dll
+F:\netApps\quizApp\obj\Debug\net9.0\quizApp.pdb
+F:\netApps\quizApp\obj\Debug\net9.0\quizApp.genruntimeconfig.cache
+F:\netApps\quizApp\obj\Debug\net9.0\ref\quizApp.dll

@@ -1,0 +1,15 @@
+F:\netApps\CollectionsInCSharp\bin\Debug\net9.0\CollectionsInCSharp.exe
+F:\netApps\CollectionsInCSharp\bin\Debug\net9.0\CollectionsInCSharp.deps.json
+F:\netApps\CollectionsInCSharp\bin\Debug\net9.0\CollectionsInCSharp.runtimeconfig.json
+F:\netApps\CollectionsInCSharp\bin\Debug\net9.0\CollectionsInCSharp.dll
+F:\netApps\CollectionsInCSharp\bin\Debug\net9.0\CollectionsInCSharp.pdb
+F:\netApps\CollectionsInCSharp\obj\Debug\net9.0\CollectionsInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\netApps\CollectionsInCSharp\obj\Debug\net9.0\CollectionsInCSharp.AssemblyInfoInputs.cache
+F:\netApps\CollectionsInCSharp\obj\Debug\net9.0\CollectionsInCSharp.AssemblyInfo.cs
+F:\netApps\CollectionsInCSharp\obj\Debug\net9.0\CollectionsInCSharp.csproj.CoreCompileInputs.cache
+F:\netApps\CollectionsInCSharp\obj\Debug\net9.0\CollectionsInCSharp.sourcelink.json
+F:\netApps\CollectionsInCSharp\obj\Debug\net9.0\CollectionsInCSharp.dll
+F:\netApps\CollectionsInCSharp\obj\Debug\net9.0\refint\CollectionsInCSharp.dll
+F:\netApps\CollectionsInCSharp\obj\Debug\net9.0\CollectionsInCSharp.pdb
+F:\netApps\CollectionsInCSharp\obj\Debug\net9.0\CollectionsInCSharp.genruntimeconfig.cache
+F:\netApps\CollectionsInCSharp\obj\Debug\net9.0\ref\CollectionsInCSharp.dll
